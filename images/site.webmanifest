@@ -3,9 +3,9 @@
     "short_name": "",
     "icons": [
       {
-       "src": "/nn.jpg",
-       "sizes": "528x724",
-       "type": "image/jpg"
+       "src": "/chatbot.png",
+       "sizes": "128x128",
+       "type": "image/png"
        }
     ],
     "theme_color": "#FFFFFF",
