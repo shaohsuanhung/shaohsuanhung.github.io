@@ -17,17 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I’m Shao-Hsaun Hung. My research interests are primarily focused on Deep Learning for videos understanding (main on egocentric videos) and signal processing. 
-<!-- Presently, I am gaining research experience as an research intern at ASML Data science and Diagnosis research team. My MSc thesis centers around the optimization of the innovative Complex-Real Value Neural Network (CRVNN) developed by NXP. My primary focus lies within the realm of autoML, particularly in areas such as Hyperparameter Optimization (HPO) and Neural Architecture Search (NAS). I leverage autoML frameworks like Optuna to enhance both the architecture and other hyperparameters of the CRVNN. Then use optimized NN to do audio related application such as speech enhancement. I just finished my MSc defense and graduated with a Cum Laude in TU/e. Currently I’m looking PhD positions. -->
-
-
+Greetings! I’m Shao-Hsaun Hung. My research interests are primarily focused on Deep Learning for videos understanding (main on egocentric videos) and signal processing. Previous, I am gaining research experience as an deep learning research intern at ASML Research, Data science and diagnosis team. My MSc thesis aims at a robust deep-learning based algorithm to automatically recognize (egocentric) procedural actions within an industrial setting. I just finished my MSc defense and graduated with GPA 3.97/4.0 in TU/e. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 A paper got accepted by IEEE RA-L
+- *2024.09*: &nbsp;🎉🎉 I am graduated ! Thesis: 8.5/10, overal GPA: 8.6/10.
+- *2024.08*: &nbsp;🎉🎉 A ppaper got accepted by ECCV VISION workshop.
+- *2023.11*: &nbsp;🎉🎉 I will be a research intern at ASML Research for master thesis, supervised by [Tim J. Schoonbeek](https://scholar.google.com/citations?user=h_YDH0YAAAAJ) (TU/e), Dr. [Jacek Krustra](https://scholar.google.com/citations?user=2_xsCDMAAAAJ) (ASML Research), and Prof. [Fons van der Sommen](https://scholar.google.com/citations?user=qFiLkCAAAAAJ) (TU/e).
+- *2023.07*: &nbsp;🎉🎉 I will be a 4-month research intern at Justine Dauwels's Lab at EECS depart., TU Delft, supervised by Dr. Andrea Piazzon (NTU), Prof. Zhiyong Sun
+(TU/e), and Prof.Justine Dauwels (TU Delft).
+- *2022.09*: &nbsp;🎉🎉  I started my master’s study at TU Eindhoven in Electrical Engineering, specialize in signal processing system.
+- *2021.06*: &nbsp;🎉🎉  I am graduated from National Cheng Kung University with dual bachelor’s degrees in Electrical Enginerring and Mechanical  Engineering, supervised by [Kuo-Shen Chen](https://scholar.google.com.tw/citations?user=OEDrTVUAAAAJ) .
+
+
 
 # 📝 Publications 
 
