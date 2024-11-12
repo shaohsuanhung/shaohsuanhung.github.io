@@ -48,7 +48,7 @@ Tim J. Schoonbeek, Goutham Balachandran, Hans Onvlee, Tim Houben, **Shao-Hsuan H
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/favicon-32x32.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication_teaser/error_seg_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Find the Assembly Mistakes: Error Segmentation for Industrial Applications](https://arxiv.org/pdf/2408.12945)
