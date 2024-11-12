@@ -23,44 +23,58 @@ Greetings! I’m Shao-Hsaun Hung. My research interests are primarily focused on
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 A paper got accepted by IEEE RA-L
-- *2024.09*: &nbsp;🎉🎉 I am graduated ! Thesis: 8.5/10, overal GPA: 8.6/10.
-- *2024.08*: &nbsp;🎉🎉 A ppaper got accepted by ECCV VISION workshop.
-- *2023.11*: &nbsp;🎉🎉 I will be a research intern at ASML Research for master thesis, supervised by [Tim J. Schoonbeek](https://scholar.google.com/citations?user=h_YDH0YAAAAJ) (TU/e), Dr. [Jacek Krustra](https://scholar.google.com/citations?user=2_xsCDMAAAAJ) (ASML Research), and Prof. [Fons van der Sommen](https://scholar.google.com/citations?user=qFiLkCAAAAAJ) (TU/e).
-- *2023.07*: &nbsp;🎉🎉 I will be a 4-month research intern at Justine Dauwels's Lab at EECS depart., TU Delft, supervised by Dr. Andrea Piazzon (NTU), Prof. Zhiyong Sun
+- *2024.09*: &nbsp;🎉 A paper got accepted by IEEE Robotics and Automation letters.
+- *2024.09*: &nbsp;🎉 I am graduated from TU Eindhoven with GPA 8.6/10, (3.97/4.0).
+- *2024.08*: &nbsp;🎉 A ppaper got accepted by ECCV 2024 (Vision-based InduStrial InspectiON).
+- *2023.11*: &nbsp; I will be a research intern at ASML Research for master thesis, supervised by [Tim J. Schoonbeek](https://scholar.google.com/citations?user=h_YDH0YAAAAJ) (TU/e), Dr. [Jacek Krustra](https://scholar.google.com/citations?user=2_xsCDMAAAAJ) (ASML Research), and Prof. [Fons van der Sommen](https://scholar.google.com/citations?user=qFiLkCAAAAAJ) (TU/e).
+- *2023.07*: &nbsp; I will be a 4-month research intern at Justine Dauwels's Lab at EECS depart., TU Delft, supervised by Dr. Andrea Piazzon (NTU), Prof. Zhiyong Sun
 (TU/e), and Prof.Justine Dauwels (TU Delft).
-- *2022.09*: &nbsp;🎉🎉  I started my master’s study at TU Eindhoven in Electrical Engineering, specialize in signal processing system.
-- *2021.06*: &nbsp;🎉🎉  I am graduated from National Cheng Kung University with dual bachelor’s degrees in Electrical Enginerring and Mechanical  Engineering, supervised by [Kuo-Shen Chen](https://scholar.google.com.tw/citations?user=OEDrTVUAAAAJ) .
+- *2022.09*: &nbsp; I started my master’s study at TU Eindhoven in Electrical Engineering, specialize in signal processing system.
+- *2021.06*: &nbsp; I am graduated from National Cheng Kung University with dual bachelor’s degrees in Electrical Enginerring and Mechanical  Engineering, supervised by Prof. [Kuo-Shen Chen](https://scholar.google.com.tw/citations?user=OEDrTVUAAAAJ) .
 
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication_teaser/state_reg_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Supervised Representation Learning towards Generalizable Assembly State Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10694722)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Tim J. Schoonbeek, Goutham Balachandran, Hans Onvlee, Tim Houben, **Shao-Hsuan Hung**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen,
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project page**](https://timschoonbeek.github.io/state_rec.html)
+- TLDR: Using representation learning (rather than classification) for assembly state recognition beats classification approaches and improves generalization
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/favicon-32x32.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Find the Assembly Mistakes: Error Segmentation for Industrial Applications](https://arxiv.org/pdf/2408.12945)
+
+Dan Lehman, Tim J. Schoonbeek, **Shao-Hsuan Hung**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen
+
+[**Project page**](https://timschoonbeek.github.io/error_seg.html)
+- TLDR: Applying Change Detection Algorithms for Error Segmentation
+</div>
+</div>
+
+<!-- ### EX. of list of publication ##-->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
+<!-- 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - 2024.09*, MS in Electrical Engineering, track: signal processing system, Eindhoven University of Technolgoy, the Netherlands
+- *2016.09 - 2021.06*, BS in Electrical Engineering, (dual degree), National Cheng Kung University, Taiwan
+- *2016.09 - 2021.06*, BS in Mechanical Engineering, (dual degree), National Cheng Kung University, Taiwan
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2020.02*, ASML Research, the Netherlands.
+- *2023.05 - 2020.02*, Justine Dauwels Lab, TU Delft, the Netherlands.
+- *2023.05 - 2020.02*, Texas Instruments, Taiwan.
+- *2020.02 - 2021.08*, System Dynamics Laboratory for Mechatronics and Microsystems Lab, Taiwan
+- *2019.06 - 2019.08*, Syntec Technology, Taiwan.
