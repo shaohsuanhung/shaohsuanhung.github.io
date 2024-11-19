@@ -17,7 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I’m Shao-Hsaun Hung. My research interests are primarily focused on Deep Learning for videos understanding (main on egocentric videos) and signal processing. Previous, I am gaining research experience as an deep learning research intern at ASML Research, Data science and diagnosis team. My MSc thesis aims at a robust deep-learning based algorithm to automatically recognize (egocentric) procedural actions within an industrial setting. I just finished my MSc defense and graduated with GPA 3.97/4.0 in TU/e. 
+Greetings! I’m Shao-Hsaun Hung. My research interests are primarily focused on Deep Learning for videos understanding (main on egocentric videos) and signal processing. Previous, I am gaining research experience as an deep learning research intern at ASML Research, Data science and diagnosis team. My MSc thesis aims at a robust deep-learning based algorithm to automatically recognize (egocentric) procedural actions within an industrial setting. I just finished my MSc defense and graduated with GPA 3.97/4.0 in TU/e.
+
+I also a member of Formula Student (student engineering competition that designing formula style racing car) through my undergraduate study.
+In my leisure time, I am a jogging hobbyist (I was a track & field athlete in high school!) and squash beginner.
+
+*My research interest covers the following aspects*: 
+* Egocentric video understanding
+* Robust vision models for real-world application  
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -29,9 +37,12 @@ Greetings! I’m Shao-Hsaun Hung. My research interests are primarily focused on
 - *2023.11*: &nbsp; I will be an intern at ASML Research for master thesis, supervised by [Tim J. Schoonbeek](https://scholar.google.com/citations?user=h_YDH0YAAAAJ) (TU/e), Dr. [Jacek Krustra](https://scholar.google.com/citations?user=2_xsCDMAAAAJ) (ASML Research), and Prof. [Fons van der Sommen](https://scholar.google.com/citations?user=qFiLkCAAAAAJ) (TU/e).
 - *2023.07*: &nbsp; I will be an intern at Justine Dauwels's Lab at TU Delft, supervised by  Prof. [Zhiyong Sun](https://scholar.google.com/citations?hl=en&user=w0bZnSQAAAAJ)
 (TU/e), and Prof.[Justine Dauwels](https://scholar.google.com/citations?hl=en&user=dboVuDYAAAAJ) (TU Delft).
+<details  open>
+<summary>Read more</summary>
+
 - *2022.09*: &nbsp; I started my master’s study at TU Eindhoven in Electrical Engineering, specialize in signal processing system.
 - *2021.06*: &nbsp; I am graduated from National Cheng Kung University with dual bachelor’s degrees in Electrical Enginerring and Mechanical  Engineering, supervised by Prof. [Kuo-Shen Chen](https://scholar.google.com.tw/citations?user=OEDrTVUAAAAJ) .
-
+</details>
 
 
 # 📝 Publications 
@@ -41,7 +52,7 @@ Greetings! I’m Shao-Hsaun Hung. My research interests are primarily focused on
 
 [Supervised Representation Learning towards Generalizable Assembly State Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10694722)
 
-Tim J. Schoonbeek, Goutham Balachandran, Hans Onvlee, Tim Houben, **Shao-Hsuan Hung**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen,
+Tim J. Schoonbeek, Goutham Balachandran, Hans Onvlee, Tim Houben, **<ins>Shao-Hsuan Hung<ins>**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen,
 
 [**Project page**](https://timschoonbeek.github.io/state_rec.html)
 - TLDR: Using representation learning (rather than classification) for assembly state recognition beats classification approaches and improves generalization
@@ -53,7 +64,7 @@ Tim J. Schoonbeek, Goutham Balachandran, Hans Onvlee, Tim Houben, **Shao-Hsuan H
 
 [Find the Assembly Mistakes: Error Segmentation for Industrial Applications](https://arxiv.org/pdf/2408.12945)
 
-Dan Lehman, Tim J. Schoonbeek, **Shao-Hsuan Hung**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen
+Dan Lehman*, Tim J. Schoonbeek*, **<ins>Shao-Hsuan Hung<ins>**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen
 
 [**Project page**](https://timschoonbeek.github.io/error_seg.html)
 - TLDR: Applying Change Detection Algorithms for Error Segmentation
