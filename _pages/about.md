@@ -22,7 +22,7 @@ Greetings! I’m Shao-Hsaun Hung. My research interests are primarily focused on
 I also a member of Formula Student (student engineering competition that designing formula style racing car) through my undergraduate study.
 In my leisure time, I am a jogging hobbyist (I was a track & field athlete in high school!) and squash beginner.
 
-*My research interest covers the following aspects*: 
+My research interest covers the following aspects:
 * Egocentric video understanding
 * Robust vision models for real-world application  
 
@@ -37,10 +37,12 @@ In my leisure time, I am a jogging hobbyist (I was a track & field athlete in hi
 - *2023.11*: &nbsp; I will be an intern at ASML Research for master thesis, supervised by [Tim J. Schoonbeek](https://scholar.google.com/citations?user=h_YDH0YAAAAJ) (TU/e), Dr. [Jacek Krustra](https://scholar.google.com/citations?user=2_xsCDMAAAAJ) (ASML Research), and Prof. [Fons van der Sommen](https://scholar.google.com/citations?user=qFiLkCAAAAAJ) (TU/e).
 - *2023.07*: &nbsp; I will be an intern at Justine Dauwels's Lab at TU Delft, supervised by  Prof. [Zhiyong Sun](https://scholar.google.com/citations?hl=en&user=w0bZnSQAAAAJ)
 (TU/e), and Prof. [Justine Dauwels](https://scholar.google.com/citations?hl=en&user=dboVuDYAAAAJ) (TU Delft).
-<details  open>
+
+<details>
 <summary>Read more</summary>
 
 - *2022.09*: &nbsp; I started my master’s study at TU Eindhoven in Electrical Engineering, specialize in signal processing system.
+  
 - *2021.06*: &nbsp; I am graduated from National Cheng Kung University with dual bachelor’s degrees in Electrical Enginerring and Mechanical  Engineering, supervised by Prof. [Kuo-Shen Chen](https://scholar.google.com.tw/citations?user=OEDrTVUAAAAJ).
 
 </details>
@@ -79,12 +81,12 @@ Dan Lehman*, Tim J. Schoonbeek*, **<ins>Shao-Hsuan Hung<ins>**, Jacek Kustra, Pe
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+# 🎓 Educations
 - *2022.09 - 2024.09*, MS in Electrical Engineering, Eindhoven University of Technolgoy, the Netherlands
 - *2016.09 - 2021.06*, BS in Electrical Engineering, (dual degree), National Cheng Kung University, Taiwan
 - *2016.09 - 2021.06*, BS in Mechanical Engineering, (dual degree), National Cheng Kung University, Taiwan
 
-# 💻 Internships
+# 👨‍💻 Internships
 - *2023.05 - 2020.02*, ASML Research, the Netherlands.
 - *2023.05 - 2020.02*, Justine Dauwels Lab, TU Delft, the Netherlands.
 - *2023.05 - 2020.02*, Texas Instruments, Taiwan.
