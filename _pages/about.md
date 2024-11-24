@@ -33,20 +33,14 @@ My research interest covers the following aspects:
 # 🔥 News
 - *2024.09*: &nbsp;🎉 A paper got accepted by IEEE Robotics and Automation letters.
 - *2024.09*: &nbsp;🎉 I am graduated from TU Eindhoven with GPA 8.6/10, (3.97/4.0).
-- *2024.08*: &nbsp;🎉 A paper got accepted by ECCV 2024 (Vision-based InduStrial InspectiON).
+- *2024.08*: &nbsp;🎉 A paper got accepted by ECCV 2024.
 - *2023.11*: &nbsp; I will be an intern at ASML Research for master thesis, supervised by [Tim J. Schoonbeek](https://scholar.google.com/citations?user=h_YDH0YAAAAJ) (TU/e), Dr. [Jacek Krustra](https://scholar.google.com/citations?user=2_xsCDMAAAAJ) (ASML Research), and Prof. [Fons van der Sommen](https://scholar.google.com/citations?user=qFiLkCAAAAAJ) (TU/e).
 - *2023.07*: &nbsp; I will be an intern at Justine Dauwels's Lab at TU Delft, supervised by  Prof. [Zhiyong Sun](https://scholar.google.com/citations?hl=en&user=w0bZnSQAAAAJ)
 (TU/e), and Prof. [Justine Dauwels](https://scholar.google.com/citations?hl=en&user=dboVuDYAAAAJ) (TU Delft).
 
-<details>
-<summary>Read more</summary>
-
-- *2022.09*: &nbsp; I started my master’s study at TU Eindhoven in Electrical Engineering, specialize in signal processing system.
+<!-- - *2022.09*: &nbsp; I started my master’s study at TU Eindhoven in Electrical Engineering, specialize in signal processing system.
   
-- *2021.06*: &nbsp; I am graduated from National Cheng Kung University with dual bachelor’s degrees in Electrical Enginerring and Mechanical  Engineering, supervised by Prof. [Kuo-Shen Chen](https://scholar.google.com.tw/citations?user=OEDrTVUAAAAJ).
-
-</details>
-
+- *2021.06*: &nbsp; I am graduated from National Cheng Kung University with dual bachelor’s degrees in Electrical Enginerring and Mechanical  Engineering, supervised by Prof. [Kuo-Shen Chen](https://scholar.google.com.tw/citations?user=OEDrTVUAAAAJ). -->
 
 # 📝 Publications 
 
@@ -55,7 +49,7 @@ My research interest covers the following aspects:
 
 [Supervised Representation Learning towards Generalizable Assembly State Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10694722)
 
-Tim J. Schoonbeek, Goutham Balachandran, Hans Onvlee, Tim Houben, **<ins>Shao-Hsuan Hung<ins>**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen,
+Tim J. Schoonbeek, Goutham Balachandran, Hans Onvlee, Tim Houben, **<ins>Shao-Hsuan Hung</ins>**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen,
 
 [**Project page**](https://timschoonbeek.github.io/state_rec.html)
 - TLDR: Using representation learning (rather than classification) for assembly state recognition beats classification approaches and improves generalization
@@ -67,7 +61,7 @@ Tim J. Schoonbeek, Goutham Balachandran, Hans Onvlee, Tim Houben, **<ins>Shao-Hs
 
 [Find the Assembly Mistakes: Error Segmentation for Industrial Applications](https://arxiv.org/pdf/2408.12945)
 
-Dan Lehman*, Tim J. Schoonbeek*, **<ins>Shao-Hsuan Hung<ins>**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen
+Dan Lehman*, Tim J. Schoonbeek*, **<ins>Shao-Hsuan Hung</ins>**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen
 
 [**Project page**](https://timschoonbeek.github.io/error_seg.html)
 - TLDR: Applying Change Detection Algorithms for Error Segmentation
