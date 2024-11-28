@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Resume"
+    url: "https://shaohsuanhung.github.io/files/SHHung_Open_Resume.pdf"
+
   - title: "About Me"
     url: "/#about-me"
 
@@ -15,5 +18,4 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Resume"
-    url: "https://shaohsuanhung.github.io/files/SHHung_Open_Resume.pdf"
+  
