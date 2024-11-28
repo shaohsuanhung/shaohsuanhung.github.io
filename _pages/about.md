@@ -34,8 +34,8 @@ My research interest covers the following aspects:
 - *2024.09*: &nbsp;🎉 A paper got accepted by IEEE Robotics and Automation letters.
 - *2024.09*: &nbsp;🎉 I am graduated from TU Eindhoven with GPA 8.6/10, (3.97/4.0).
 - *2024.08*: &nbsp;🎉 A paper got accepted by ECCV 2024.
-- *2023.11*: &nbsp; I will be an intern at ASML Research for master thesis, supervised by [Tim J. Schoonbeek](https://scholar.google.com/citations?user=h_YDH0YAAAAJ) (TU/e), Dr. [Jacek Krustra](https://scholar.google.com/citations?user=2_xsCDMAAAAJ) (ASML Research), and Prof. [Fons van der Sommen](https://scholar.google.com/citations?user=qFiLkCAAAAAJ) (TU/e).
-- *2023.07*: &nbsp; I will be an intern at Justine Dauwels's Lab at TU Delft, supervised by  Prof. [Zhiyong Sun](https://scholar.google.com/citations?hl=en&user=w0bZnSQAAAAJ)
+- *2023.11*: &nbsp; I will be an intern at ASML Research, supervised by Dr. [Jacek Krustra](https://scholar.google.com/citations?user=2_xsCDMAAAAJ) (ASML Research), and Prof. [Fons van der Sommen](https://scholar.google.com/citations?user=qFiLkCAAAAAJ) (TU/e).
+- *2023.07*: &nbsp; I will be an intern at TU Delft, supervised by  Prof. [Zhiyong Sun](https://scholar.google.com/citations?hl=en&user=w0bZnSQAAAAJ)
 (TU/e), and Prof. [Justine Dauwels](https://scholar.google.com/citations?hl=en&user=dboVuDYAAAAJ) (TU Delft).
 
 <!-- - *2022.09*: &nbsp; I started my master’s study at TU Eindhoven in Electrical Engineering, specialize in signal processing system.
