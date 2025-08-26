@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shao-Hsuan Hung"
   avatar           : "images/selfie-512-512.jpg"
-  bio              : "Eindhoven University of Technology"
+  bio              : "Delft University of Technology"
   location         : "Eindhoven, the Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qNE_FdkAAAAJ"
-  email            : "shaohsuan.hung1997@gmail.com"
+  email            : "shaohung@tudelft.nl"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
