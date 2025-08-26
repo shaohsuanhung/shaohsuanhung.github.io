@@ -77,7 +77,7 @@ Dan Lehman\*, Tim J. Schoonbeek\*, **<ins>Shao-Hsuan Hung</ins>**, Jacek Kustra,
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🎓 Educations
-- *2025.05 - Present*, PhD in Electrical Engineering, Delft University of Technolgoy, the Netherlands
+- *2025.05 - Present*, PhD in Electrical Engineering, Delft University of Technolgoy, the Netherlands.   
   **Research field**: Distributed signal processing, Gaussian Processes
 - *2022.09 - 2024.09*, MS in Electrical Engineering, Eindhoven University of Technolgoy, the Netherlands
 - *2016.09 - 2021.06*, BS in Electrical Engineering, (dual degree), National Cheng Kung University, Taiwan
