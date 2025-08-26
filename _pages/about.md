@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I’m Shao-Hsaun Hung. My research interests are primarily focused on Deep Learning for videos understanding (main on egocentric videos) and signal processing. Previous, I am gaining research experience as an deep learning research intern at ASML Research, Data science and diagnosis team. My MSc thesis aims at a robust deep-learning based algorithm to automatically recognize (egocentric) procedural actions within an industrial setting. I just finished my MSc defense and graduated with GPA 3.97/4.0 in TU/e.
+Greetings! I’m Shao-Hsaun Hung, currently a PhD candidate at EEMCS,TU Delft. My research interests are primarily focused on (1) intersection of machine learning and signal processing and (2) deep learning for videos understanding (main on egocentric videos) . Previous, I am gaining research experience as an deep learning research intern at ASML Research, Data science and diagnosis team. My MSc thesis aims at a robust deep-learning based algorithm to automatically recognize (egocentric) procedural actions within an industrial setting. I just finished my MSc defense and graduated with GPA 3.97/4.0 in TU/e.
 
 I also a member of Formula Student (student engineering competition that designing formula style racing car) through my undergraduate study.
 In my leisure time, I am a jogging hobbyist (I was a track & field athlete in high school!) and squash beginner.
@@ -31,6 +31,7 @@ My research interest covers the following aspects:
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 I will be a PhD candidate at EEMCS, TU Deflt, supervised by Prof. [Raj Thilak Rajan](https://scholar.google.com/citations?user=HnQsKj4AAAAJ&hl=en), and Prof. [Alle-Jan van der Veen](https://scholar.google.com/citations?hl=en&user=6LmFQugAAAAJ). 
 - *2024.09*: &nbsp;🎉 A paper got accepted by IEEE Robotics and Automation letters.
 - *2024.09*: &nbsp;🎉 I am graduated from TU Eindhoven with GPA 8.6/10, (3.97/4.0).
 - *2024.08*: &nbsp;🎉 A paper got accepted by ECCV 2024.
