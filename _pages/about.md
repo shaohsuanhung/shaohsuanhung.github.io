@@ -62,7 +62,7 @@ Tim J. Schoonbeek, Goutham Balachandran, Hans Onvlee, Tim Houben, **<ins>Shao-Hs
 
 [Find the Assembly Mistakes: Error Segmentation for Industrial Applications](https://arxiv.org/pdf/2408.12945)
 
-Dan Lehman*, Tim J. Schoonbeek*, **<ins>Shao-Hsuan Hung</ins>**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen
+Dan Lehman\*, Tim J. Schoonbeek\*, **<ins>Shao-Hsuan Hung</ins>**, Jacek Kustra, Peter H.N. de With, Fons van der Sommen
 
 [**Project page**](https://timschoonbeek.github.io/error_seg.html)
 - TLDR: Applying Change Detection Algorithms for Error Segmentation
