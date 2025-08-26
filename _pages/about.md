@@ -31,7 +31,7 @@ My research interest covers the following aspects:
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉 I will be a PhD candidate at EEMCS, TU Deflt, supervised by Prof. [Raj Thilak Rajan](https://scholar.google.com/citations?user=HnQsKj4AAAAJ&hl=en), and Prof. [Alle-Jan van der Veen](https://scholar.google.com/citations?hl=en&user=6LmFQugAAAAJ). 
+- *2025.05*: &nbsp; I will be a PhD candidate at EEMCS, TU Deflt, supervised by Prof. [Raj Thilak Rajan](https://scholar.google.com/citations?user=HnQsKj4AAAAJ&hl=en), and Prof. [Alle-Jan van der Veen](https://scholar.google.com/citations?hl=en&user=6LmFQugAAAAJ). 
 - *2024.09*: &nbsp;🎉 A paper got accepted by IEEE Robotics and Automation letters.
 - *2024.09*: &nbsp;🎉 I am graduated from TU Eindhoven with GPA 8.6/10, (3.97/4.0).
 - *2024.08*: &nbsp;🎉 A paper got accepted by ECCV 2024.
@@ -77,6 +77,8 @@ Dan Lehman*, Tim J. Schoonbeek*, **<ins>Shao-Hsuan Hung</ins>**, Jacek Kustra, P
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🎓 Educations
+- *2025.05 - Present*, PhD in Electrical Engineering, Delft University of Technolgoy, the Netherlands
+  **Research field**: Distributed signal processing, Gaussian Processes
 - *2022.09 - 2024.09*, MS in Electrical Engineering, Eindhoven University of Technolgoy, the Netherlands
 - *2016.09 - 2021.06*, BS in Electrical Engineering, (dual degree), National Cheng Kung University, Taiwan
 - *2016.09 - 2021.06*, BS in Mechanical Engineering, (dual degree), National Cheng Kung University, Taiwan
