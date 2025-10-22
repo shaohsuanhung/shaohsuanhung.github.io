@@ -85,7 +85,7 @@ Dan Lehman\*, Tim J. Schoonbeek\*, **<ins>Shao-Hsuan Hung</ins>**, Jacek Kustra,
 
 # 👨‍💻 Internships
 - *2023.05 - 2020.02*, ASML Research, the Netherlands.
-- *2023.05 - 2020.02*, Justine Dauwels Lab, TU Delft, the Netherlands.
+- *2023.05 - 2020.02*, Justine Dauwels Lab, TU Delft, the Netherlands
 - *2023.05 - 2020.02*, Texas Instruments, Taiwan.
 - *2020.02 - 2021.08*, System Dynamics Laboratory for Mechatronics and Microsystems Lab, Taiwan
 - *2019.06 - 2019.08*, Syntec Technology, Taiwan.
