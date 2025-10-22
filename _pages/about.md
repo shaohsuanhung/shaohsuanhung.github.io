@@ -31,6 +31,8 @@ My research interest covers the following aspects:
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉 A paper got accepted by Elsevier Computer Vision and Image Understanding.
+- *2025.09* &nbsp;🎉 A paper got accepted by NeurIPS 2025 workshop.
 - *2025.05*: &nbsp; I will be a PhD candidate at EEMCS, TU Deflt, supervised by Prof. [Raj Thilak Rajan](https://scholar.google.com/citations?user=HnQsKj4AAAAJ&hl=en), and Prof. [Alle-Jan van der Veen](https://scholar.google.com/citations?hl=en&user=6LmFQugAAAAJ). 
 - *2024.09*: &nbsp;🎉 A paper got accepted by IEEE Robotics and Automation letters.
 - *2024.09*: &nbsp;🎉 I am graduated from TU Eindhoven with GPA 8.6/10, (3.97/4.0).
@@ -44,6 +46,17 @@ My research interest covers the following aspects:
 - *2021.06*: &nbsp; I am graduated from National Cheng Kung University with dual bachelor’s degrees in Electrical Enginerring and Mechanical  Engineering, supervised by Prof. [Kuo-Shen Chen](https://scholar.google.com.tw/citations?user=OEDrTVUAAAAJ). -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU</div><img src='images/publication_teaser/storm-psr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning to recognize correctly completed procedure steps in egocentric assembly videos through spatio-temporal modeling](https://www.sciencedirect.com/science/article/pii/S1077314225002516)
+
+**<ins>Shao-Hsuan Hung</ins>**\*, Tim J. Schoonbeek\*, Dan Lehman, Hans Onvlee, Jacek Kustra, Peter H.N. de With, Fons van der Sommen,
+
+[**Project page**](https://timschoonbeek.github.io/stormpsr.html)
+- TLDR: STORM-PSR pairs a transformer-based spatio-temporal stream with assembly state cues and weakly supervised pretraining to recognize correctly completed steps even under partial occlusion.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication_teaser/state_reg_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
