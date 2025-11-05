@@ -108,6 +108,7 @@ Dan Lehman\*, Tim J. Schoonbeek\*, **<ins>Shao-Hsuan Hung</ins>**, Jacek Kustra,
 - *2016.09 - 2021.06*, BS in Mechanical Engineering, (dual degree), National Cheng Kung University, Taiwan
 
 # 👨‍💻 Internships
+- *2025.06 - &nbsp; Now*, &nbsp;&nbsp;&nbsp;&nbsp; Sensor AI Lab, EEMCS, TU Delft, Netherlands
 - *2023.05 - 2020.02*, ASML Research, the Netherlands.
 - *2023.05 - 2020.02*, Justine Dauwels Lab, TU Delft, the Netherlands
 - *2023.05 - 2020.02*, Texas Instruments, Taiwan.
