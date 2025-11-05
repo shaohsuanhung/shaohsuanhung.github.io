@@ -32,7 +32,7 @@ My research interest covers the following aspects:
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉 A paper got accepted by Elsevier Computer Vision and Image Understanding.
-- *2025.09* &nbsp;🎉 A paper got accepted by NeurIPS 2025 workshop.
+- *2025.09*: &nbsp;🎉 A paper got accepted by NeurIPS 2025 workshop.
 - *2025.05*: &nbsp; I will be a PhD candidate at EEMCS, TU Deflt, supervised by Prof. [Raj Thilak Rajan](https://scholar.google.com/citations?user=HnQsKj4AAAAJ&hl=en), and Prof. [Alle-Jan van der Veen](https://scholar.google.com/citations?hl=en&user=6LmFQugAAAAJ). 
 - *2024.09*: &nbsp;🎉 A paper got accepted by IEEE Robotics and Automation letters.
 - *2024.09*: &nbsp;🎉 I am graduated from TU Eindhoven with GPA 8.6/10, (3.97/4.0).
@@ -57,7 +57,18 @@ My research interest covers the following aspects:
 - TLDR: STORM-PSR pairs a transformer-based spatio-temporal stream with assembly state cues and weakly supervised pretraining to recognize correctly completed steps even under partial occlusion.
 </div>
 </div>
+<!---->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/publication_teaser/blockGPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[BlockGPT: Spatio-Temporal Modelling of Rainfall via Frame-Level Autoregression](https://arxiv.org/abs/2510.06293)
+
+Cristian Meo\*, Varun Sarathchandran\*, Avijit Majhi\*, **<ins>Shao-Hsuan Hung</ins>**, Carlo Saccardi, Ruben Imhoff, Roberto Deidda, Remko Uijlenhoet, Justin Dauwels
+[**Project page**](https://github.com/Cmeo97/BlockGPT)
+- TLDR: BlockGPT is a spatio-temporal generative model designed for precipitation nowcasting. It models weather evolution as a video prediction task using transformer-based architectures. 
+</div>
+</div>
+<!---->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication_teaser/state_reg_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,9 +101,9 @@ Dan Lehman\*, Tim J. Schoonbeek\*, **<ins>Shao-Hsuan Hung</ins>**, Jacek Kustra,
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🎓 Educations
-- *2025.05 - Present*, PhD in Electrical Engineering, Delft University of Technolgoy, the Netherlands.   
+- *2025.05 - Present*, Ph.D. in Electrical Engineering, Delft University of Technology, the Netherlands.   
   **Research field**: Distributed signal processing, Gaussian Processes
-- *2022.09 - 2024.09*, MS in Electrical Engineering, Eindhoven University of Technolgoy, the Netherlands
+- *2022.09 - 2024.09*, MS in Electrical Engineering, Eindhoven University of Technology, the Netherlands
 - *2016.09 - 2021.06*, BS in Electrical Engineering, (dual degree), National Cheng Kung University, Taiwan
 - *2016.09 - 2021.06*, BS in Mechanical Engineering, (dual degree), National Cheng Kung University, Taiwan
 
